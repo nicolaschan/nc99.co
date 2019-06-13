@@ -1,7 +1,7 @@
 ---
 title: nc99 Minecraft Server
 layout: page
-feature_image: "/img/desktop.png"
+feature_image: "/img/desktop-top.png"
 ---
 
 The nc99 Minecraft Server is a small community Minecraft server with a focus on simplicity, freedom, and ambitious projects.
