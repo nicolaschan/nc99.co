@@ -3,7 +3,7 @@ layout: post
 title: New Server Website
 categories:
 - General
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "/img/2019-06-12_20.22.53.png"
 ---
 
 Welcome to the new website for the nc99 Minecraft server. Ditching our old Django based website (and Wordpress before that), the new website is statically generated and based on [Jekyll](https://jekyllrb.com), which should hopefully make it more maintainable going forward. We hope this website is a useful resource for our existing members and serves as a good introduction for others that are interested in joining. 
