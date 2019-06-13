@@ -53,6 +53,4 @@ collections:
     title: Posts
     output: true
     description: "Status updates & announcements"
-    feature_text: |
-      nc99 Minecraft Server Blog
     feature_image: "/img/books.png"
