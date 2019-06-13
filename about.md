@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the server 
-feature_image: "/img/2019-06-12_19.42.28.png"
+feature_image: "/img/2019-06-12_19.49.20.png"
 ---
 
 ## About us
