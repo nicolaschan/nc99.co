@@ -25,7 +25,7 @@ baseurl: ''
 title: 'nc99 Minecraft Server'
 description: 'A small community server'
 permalink: pretty
-logo: ""
+logo: "/img/server-icon.png"
 
 # Pagination
 paginate: 5
