@@ -29,7 +29,7 @@ All server costs, including electricity and domain registration, are covered pri
 
 ## Technical Details
 
-The server runs Ubuntu andn was custom built in 2012. The current specs are:
+The server runs Ubuntu and was custom built in 2012. The current specs are:
 
 - **CPU** - Intel Core i5-3570K Ivy Bridge Quad-Core 3.4GHz
 - **RAM** - 2x8GB DDR3 (16GB total)
