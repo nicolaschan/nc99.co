@@ -55,4 +55,4 @@ collections:
     description: "Status updates & announcements"
     feature_text: |
       nc99 Minecraft Server Blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    feature_image: "/img/books.png"
