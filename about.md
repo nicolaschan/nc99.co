@@ -4,8 +4,6 @@ title: About the server
 feature_image: "/img/2019-06-12_19.49.20.png"
 ---
 
-## About us
-
 The nc99 Minecraft server is a small community server hosted in a home in California since 2012. Throughout the years, we've hosted many types of Minecraft servers, including a public Bukkit server, several modded servers, and a private vanilla server. We continue to host Minecraft servers and hope to provide a much needed relief from servers that have been overrun with annoying plugins and abusive moderators.
 
 All staff play on servers along with everyone else and are not allowed any extra in-game advantages. This way, we become a server run by the players, for the players. On our servers, we try to have very few rules in order to give as much freedom as possible but without it hurting others.
