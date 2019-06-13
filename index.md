@@ -1,7 +1,7 @@
 ---
 title: nc99 Minecraft Server
 layout: page
-feature_image: "/img/desktop.png"
+feature_image: "/img/ice-centered.png"
 feature_text: |
   ## nc99 Minecraft Server
 ---
