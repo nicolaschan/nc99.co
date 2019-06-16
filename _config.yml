@@ -39,6 +39,8 @@ navigation_header:
   url: /about/
 - title: Apply
   url: /apply/
+- title: Status
+  url: /ip/
 - title: Blog
   url: /blog/
 
