@@ -29,9 +29,9 @@ All server costs, including electricity and domain registration, are covered pri
 
 The server runs Ubuntu and was custom built in 2012. The current specs are:
 
-- **CPU** - Intel Core i5-3570K Ivy Bridge Quad-Core 3.4GHz
-- **RAM** - 2x8GB DDR3 (16GB total)
-- **Motherboard** - ASUS P8H61-M LE/CSM (REV 3.0) LGA 1155 Intel H61 Micro ATX Intel Motherboard
-- **Storage** - 1.5TB HDD
+- **CPU** - AMD Ryzen 9 3900X 12-Core Processor
+- **RAM** - 2x16GB DDR4 at 3200 MHz (32GB total)
+- **Motherboard** - GIGABYTE X570 I AORUS PRO WIFI AMD Ryzen 3000 PCIe 4.0 SATA 6Gb/s USB 3.2 AMD X570 Mini-ITX Motherboard
+- **Storage** - 128 GB NVMe SSD
 
-Since we are home-hosted, we unfortunately have home internet connection speeds. Currently, the speeds are about 30 Mbps down and 5 Mbps up. Because of this, most lag experienced when playing is due to network speeds, not server hardware. We are located in Mountain View, CA so geographical distance from here can also be a factor in lag, although international users from Europe have been successful in playing on a public modded server in the past.
+Currently, we have a gigabit symmetric connection. We are located in Berkeley, CA so geographical distance from here can also be a factor in lag, although international users from Europe have been successful in playing on a public modded server in the past (when we were in Mountain View, CA).
