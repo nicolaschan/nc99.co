@@ -27,7 +27,7 @@ All server costs, including electricity and domain registration, are covered pri
 
 ## Technical Details
 
-The server runs Ubuntu and was custom built in 2012. The current specs are:
+The server runs Arch Linux and was custom built in 2019. The current specs are:
 
 - **CPU** - AMD Ryzen 9 3900X 12-Core Processor
 - **RAM** - 2x16GB DDR4 at 3200 MHz (32GB total)
