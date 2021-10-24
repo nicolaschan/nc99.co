@@ -32,6 +32,6 @@ The server runs NixOS Linux and was custom built. The current specs are:
 - **CPU** - AMD Ryzen 9 3900X 12-Core Processor
 - **RAM** - 2x16GB DDR4 at 3200 MHz (32GB total)
 - **Motherboard** - ASRock X570M PRO4 AM4 AMD X570 SATA 6Gb/s Micro ATX AMD Motherboard
-- **Storage** - 1TB GB NVMe SSD
+- **Storage** - 1TB NVMe SSD
 
 We are home-hosted in San Francisco, CA so geographical distance from here can also be a factor in lag, although international users from Europe have been successful in playing on a public modded server in the past (when we were in Mountain View, CA).
